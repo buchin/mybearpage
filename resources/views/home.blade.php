@@ -1,5 +1,13 @@
 @extends('layout')
 
+@section('head')
+<meta property="og:url"                content="{{ url()->current() }}" />
+<meta property="og:type"               content="article" />
+<meta property="og:title"              content="My Bear Page" />
+<meta property="og:description"        content="Give your Bear note a web page, so you can share it to the the world" />
+<meta property="og:image"              content="{{ url('og.jpg') }}" />
+@endsection
+
 @section('content')
 <section>
     <form action="{{ route('home') }}" method="post" enctype="multipart/form-data">
