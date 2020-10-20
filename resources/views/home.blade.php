@@ -8,7 +8,7 @@
         <p>Give your <a href="https://bear.app/" target="_blank">Bear note</a> a web page, so you can share it to the the world*. ʕ•ᴥ•ʔ</p>
         <strong>How to use:</strong>
         <ol>
-            <li>Export your note as <a href="https://bear.app/faq/Import%20&%20export/Export%20your%20notes/" target="_blank">Textbundle</a></li>
+            <li>Export your note as <a href="https://mybear.page/notes/1" target="_blank">Textbundle</a></li>
             <li>Upload it in the form below</li>
             <li>You get an unique link to share (ᵔᴥᵔ)</li>
         </ol>
